@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UNIVERSIDAD-TI\8VO NIVEL\A.M 2\flutter2\flutter-ejercicio-5-listview\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\UNIVERSIDAD-TI\8VO NIVEL\A.M 2\flutter2\flutter-ejercicio-5-listview\android\app\src\debug\jniLibs"/></dataSet></merger>
